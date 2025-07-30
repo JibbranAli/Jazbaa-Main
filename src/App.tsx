@@ -1,15 +1,15 @@
 import React from 'react';
-import Navigation from './Navigation';
-import HeroSection from './HeroSection';
-import AboutSection from './AboutSection';
-import StartupsSection from './StartupsSection';
-import CreatorsSection from './CreatorsSection';
-import JourneySection from './JourneySection';
-import MentorsSection from './MentorsSection';
-import VisionSection from './VisionSection';
-import GallerySection from './GallerySection';
-import JoinSection from './JoinSection';
-import Footer from './Footer';
+import Navigation from './components/Navigation';
+import HeroSection from './components/HeroSection';
+import AboutSection from './components/AboutSection';
+import StartupsSection from './components/StartupsSection';
+import CreatorsSection from './components/CreatorsSection';
+import JourneySection from './components/JourneySection';
+import MentorsSection from './components/MentorsSection';
+import VisionSection from './components/VisionSection';
+import GallerySection from './components/GallerySection';
+import JoinSection from './components/JoinSection';
+import Footer from './components/Footer';
 
 function App() {
   return (
